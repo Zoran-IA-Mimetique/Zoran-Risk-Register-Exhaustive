@@ -1,0 +1,1 @@
+Register exhaustif opérationnel : données d’exemple, validation de schéma, calcul V(x) (0–100), mise à jour Excel, CLI unifiée, tests pytest, CI GitHub Actions, docs (USAGE, RACI, checklist), aligné ISO 27005/27001, RGPD, AI Act.

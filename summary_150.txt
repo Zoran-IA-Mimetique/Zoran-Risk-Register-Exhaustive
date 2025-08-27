@@ -1,0 +1,1 @@
+Registre des risques exhaustif : CSV exemples, validation schéma, scoring V(x), Excel, tests, CI. Prêt audit & conformité.

@@ -1,0 +1,3 @@
+# Zoran — Risk Register Exhaustive
+
+Ce dépôt fournit une implémentation **exhaustive et validée** d’un registre des risques, prête pour l’audit et la conformité (ISO 27005/27001, RGPD, AI Act). Il inclut des **données d’exemple** (CSV valides/invalides), une **validation de schéma**, un **scoring V(x)** borné 0–100 (avec seuils de décision CI/CD), la **mise à jour d’un modèle Excel**, une **CLI unifiée**, des **tests unitaires** et une **CI**. La documentation comprend un guide d’utilisation, une matrice RACI et une checklist d’acceptation. L’objectif est d’offrir une base **robuste, réplicable et pédagogique**, facilement intégrable dans des workflows de sécurité et de conformité.
